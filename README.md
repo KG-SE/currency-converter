@@ -3,7 +3,7 @@
 A responsive Currency Converter Web App built with HTML, CSS, and JavaScript using a real-time Exchange Rate API.
 
 ## 📸 Preview
-![Game UI](./screenshots/home_page.png)
+![App UI](./screenshots/home_page.png)
 
 ## 🔗 Live Demo
 [🎮 Play Live Game](https://kg-se.github.io/currency-converter/)
@@ -26,8 +26,11 @@ A responsive Currency Converter Web App built with HTML, CSS, and JavaScript usi
 - Flag CDN API
 
 ## 📸 Screenshots
-![Game UI](./screenshots/home_page.png)
 
+### App UI
+![App UI](./screenshots/home_page.png)
+
+### Real-Time Currency Converter
 ![Real-Time Currency Conversion](./screenshots/preview.png)
 
 
