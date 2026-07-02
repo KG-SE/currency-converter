@@ -5,7 +5,7 @@ A responsive Currency Converter Web App built with HTML, CSS, and JavaScript usi
 ## 📸 Preview
 ![App UI](./screenshots/home_page.png)
 
-[##🔗 Live Demo](https://kg-se.github.io/currency-converter/)
+[🔗 Live Demo](https://kg-se.github.io/currency-converter/)
 
 ## 🚀 Features
 - Real-time currency conversion
