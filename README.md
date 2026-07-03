@@ -53,8 +53,23 @@ script.js
 screenshots/
 ```
 
+---
+
+## What I Learned
+
+This project helped me to improved my JavaScript (ES6) concepts including fetch API, Json Response & Async/Await
+
+
 ## 👨‍💻 Author
 **Kashan Ghori**  
 🔗 https://github.com/KG-SE
 
 ---
+
+## 🤝 Connect with Me
+
+Feel free to connect with me on LinkedIn and check out my projects!
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
