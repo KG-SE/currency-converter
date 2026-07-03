@@ -55,12 +55,8 @@ screenshots/
 
 ---
 
-## What I Learned
-
-This project helped me to improved my JavaScript (ES6) concepts including fetch API, Json Response & Async/Await
-
-
 ## 👨‍💻 Author
+
 **Kashan Ghori**  
 🔗 https://github.com/KG-SE
 
